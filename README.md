@@ -70,7 +70,7 @@ El modelo mostró un desempeño moderado, confirmando que las variables seleccio
 ---
 
  💾 Dataset
-El archivo original **`car_prices.csv`** supera el límite de 25 MB permitido por GitHub, por lo que se aloja externamente.
+El archivo original **`car_prices.csv`** https://drive.google.com/file/d/1FZZmqKXmq8iRttCYLhAKA2MxAJZowC8k/view?usp=drive_link
 
 - 🔗 **Para Google Colab, el siguiente link: https://colab.research.google.com/drive/1CP31R4lrbXX42ZhN1D0__tRRpZRPx7Rt
 
