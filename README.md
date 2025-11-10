@@ -2,7 +2,6 @@
 Proyecto final de Visualización y Modelado Predictivo en Python. 
 Hipótesis: impacto de los autos chinos en el mercado americano.
 
-# Proyecto Final - Federico Sánchez Laurino
 ## Análisis de precios de autos en América
 
  🎯 Hipótesis
